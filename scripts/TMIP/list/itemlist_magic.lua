@@ -1,4 +1,5 @@
 return {
+	"dreadstone",--绝望石
 	"redgem",
 	"orangegem",
 	"yellowgem",

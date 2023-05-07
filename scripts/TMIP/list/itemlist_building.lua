@@ -1,5 +1,19 @@
 return {
+	"lunar_forge",--辉煌铁匠铺
+	"yotr_rabbitshrine",--兔人神龛
+
+	"yotr_fightring_bell",--枕头大战钟
+	"yotr_fightring",--枕头大战坑
+	"yotr_fightring_torch",--兔人火炬
+	"yotr_decor_1",--矮兔灯
+	"yotr_decor_2",--高兔灯
+
+	
+	"punchingbag",--拳击袋
+	"punchingbag_shadow",--暗影拳击袋
+	"punchingbag_lunar",--明亮拳击袋
 	"sewing_mannequin",--假人
+
 	"bookstation",--书架
 	--航海
 	"boat_cannon",--大炮
@@ -191,6 +205,7 @@ return {
 	"yotb_stage",
 	"beefalo_groomer",
 --装饰
+	"winter_palmconetree",--冬季盛宴树
 	"endtable",
 	"succulent_potted",
 	"pottedfern",

@@ -1,4 +1,6 @@
 return {
+	"lunarthrall_plant",--致命亮茄
+	"daywalker",--噩梦猪人
 	--猪王
 	"monkeyqueen",--月亮码头女王
 	"pigking",

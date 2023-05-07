@@ -1,4 +1,9 @@
 return {
+	"yotr_food1",--兔子卷
+	"yotr_food2",--月饼
+	"yotr_food3",--月冻
+	"yotr_food4",--泡芙串
+	"hareball",--兔毛球
 --肉类（可烹饪）
 	"meat",
 	"cookedmeat",

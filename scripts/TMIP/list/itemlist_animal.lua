@@ -1,4 +1,6 @@
 return {
+    "lunar_grazer",--牧者
+    "lunarthrall_plant_vine_end",--钻地藤蔓
     "lightcrab",--发光蟹
     "polly_rogers",--波莉·罗杰
     --类人生物

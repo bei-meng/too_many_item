@@ -1,4 +1,16 @@
 return {
+	"nightcaphat",--睡帽
+	
+	"handpillow_beefalowool",--皮弗娄牛毛枕头
+	"handpillow_petals",--花朵枕头
+	"handpillow_kelp",--海带枕头
+	"handpillow_steelwool",--钢丝绵枕头
+
+	"bodypillow_kelp",--海带枕头盔甲
+	"bodypillow_petals",--花朵枕头盔甲
+	"bodypillow_steelwool",--钢丝绵枕头盔甲
+	"bodypillow_beefalowool",--皮弗娄牛枕头盔甲
+
 	"antlionhat",--刮地皮头盔
 
 	"mask_queenhat",--女王面具

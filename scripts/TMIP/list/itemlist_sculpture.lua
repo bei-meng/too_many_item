@@ -1,4 +1,8 @@
 return {
+	"chesspiece_manrabbit",--兔人雕塑
+	"chesspiece_manrabbit_moonglass",--兔人雕塑
+	"chesspiece_manrabbit_stone",--兔人雕塑
+	"chesspiece_manrabbit_marble",--兔人雕塑
 --格罗姆掉线
 	"statueglommer",
 --麦斯威尔雕像

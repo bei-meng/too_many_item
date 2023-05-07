@@ -1,4 +1,6 @@
 return {
+	"lunarrift_crystal_big",--裂隙晶体
+	"lunarrift_crystal_small",--裂隙晶体
 	-- "moonstorm_glass_nub",
 	"moonstorm_glass",
 --石化树

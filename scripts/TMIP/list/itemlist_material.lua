@@ -1,4 +1,8 @@
 return {
+	"horrorfuel",--纯粹恐惧
+	"purebrilliance",--纯粹辉煌
+	"lunarplant_husk",--亮茄外壳
+	"dreadstone",--绝望石
 	--植物材料
 	"palmcone_scale",--棕榈松果树鳞片
 	"cutgrass",

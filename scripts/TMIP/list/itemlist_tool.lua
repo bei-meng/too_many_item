@@ -33,6 +33,8 @@ return {
     "boatpatch",
     "boat_item",
     --采集工具
+    "shovel_lunarplant",--亮茄铲子
+    "pickaxe_lunarplant",--亮茄粉碎者
     "axe",
     "goldenaxe",
     "moonglassaxe",

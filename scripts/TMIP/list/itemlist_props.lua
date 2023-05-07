@@ -1,4 +1,12 @@
 return {
+	"lunar_forge_kit",--辉煌铁匠铺套装
+
+	"redpouch_yotr",--红包
+	"yotr_decor_1_item",--矮兔灯
+	"yotr_decor_2_item",--高兔灯
+	"yotr_fightring_kit",--枕头大战坑套装
+	"yotr_token",--挑战手套
+
 	"playbill_the_doll",--附魔玩偶
 	"cookingrecipecard",--酿鱼头食谱
 	---------------------------2022-5-20
@@ -178,6 +186,7 @@ return {
     "battlesong_instant_panic",
 
     --雕像草图
+	"chesspiece_manrabbit_sketch",--兔人雕塑草图
 	"chesspiece_kitcoon_sketch",
 	"chesspiece_twinsofterror_sketch",
 	"chesspiece_guardianphase3_sketch",

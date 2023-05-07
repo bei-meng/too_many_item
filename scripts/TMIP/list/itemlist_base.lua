@@ -12,6 +12,7 @@ return {
     "wall_ruins_item",
     "wall_moonrock_item",
     --自然地皮
+    "turf_beard_rug",--胡须地毯
     "turf_ruinsbrick",--远古地面
     "turf_ruinstiles",--远古瓷砖
     "turf_ruinstrim",--远古砖雕

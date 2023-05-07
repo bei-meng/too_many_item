@@ -1,4 +1,6 @@
 return {
+	"lunarrift_portal",--裂隙
+	"daywalker_pillar",--开裂的柱子
 	"charlie_stage_post",--舞台
 	"stageusher",--舞台之手
 	"charlie_lecturn",--剧本

@@ -13,7 +13,7 @@ for _, v in pairs(Listload) do
     require("TMIP/list/itemlist_" .. v)
 end
 
-
+local controls = nil 
 local function AddTMIMenu(self)
     controls= self
 end
@@ -21,7 +21,7 @@ AddClassPostConstruct("widgets/controls", AddTMIMenu)
 
 AddPrefabPostInit("world", function (inst)
     inst:DoTaskInTime(0,function ()
-        if not controls.TMI then
+        if not controls or not controls.TMI then
             return
         end
         --增加鸦年华，浣猫年
