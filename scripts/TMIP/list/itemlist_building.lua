@@ -13,7 +13,8 @@ return {
 	"punchingbag_shadow",--暗影拳击袋
 	"punchingbag_lunar",--明亮拳击袋
 	"sewing_mannequin",--假人
-
+	
+	"magician_chest",--魔术师箱子
 	"bookstation",--书架
 	--航海
 	"boat_cannon",--大炮
